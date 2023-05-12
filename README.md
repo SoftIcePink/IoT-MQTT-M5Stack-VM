@@ -173,3 +173,4 @@ sudo chmod +x installation.sh
 sudo sh ./installation.sh
 ```
 
+<img src="https://avatars.githubusercontent.com/u/32594805?v=4" width="10%" height="10%">
