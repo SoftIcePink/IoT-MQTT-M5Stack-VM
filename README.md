@@ -1,4 +1,3 @@
-# Virtual Box Installer
 ## _Quick Guide_
 **This guide helps you install a VM Debian 11 with VBoxClient enabled**
 
