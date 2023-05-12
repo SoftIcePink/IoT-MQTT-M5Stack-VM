@@ -1,4 +1,22 @@
+# VM-Pers-Install
+
+
+*"Why invent the wheel when it already exists ?"*
+
+**Because some wheels just aren't made for our roads.**
+
+## Goal
+The main goal is to quicken a new installation of a Virtual Machine (VM).
+But it's secondary goal is to help students **not get blocked** at installing VMs on their machine.
+
+
+Some students are required to create projects with 3 to 6 VMs, IoT's, etc. without being correctly formed or **without having the time to really get into troubleshooting their VMs**.
+
+
+
 ## _Quick Guide_
+
+
 **This guide helps you install a VM Debian 11 with VBoxClient enabled**
 
 The codes only apply to Linux distros. 
@@ -58,11 +76,12 @@ This file will automatically install the following packages :
 
 
 
-It will generate / create :
-
-
-* Password and secret for Graylog
-* Create a database graylog 
+## What do these codes do ?
+* Install useful tools for **very basic** dev projects
+* 
+* Prompts for password and secret for Graylog
+* Create a database GrayLog on MongoDB
+* Associate a node on OpenSearch for GrayLog
 
 
 
