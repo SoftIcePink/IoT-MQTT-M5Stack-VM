@@ -30,7 +30,6 @@ On windows :
 
 ```
 C:\Program Files\Oracle\VirtualBox\
-
 ```
 
 
@@ -99,9 +98,7 @@ By default, it is located at :
 
 
 ```
-
 C:\Program Files\Oracle\VirtualBox\
-
 ```
 
 
@@ -119,7 +116,6 @@ C:\Program Files\Oracle\VirtualBox\
 
 ```
 cd code
-
 ```
 
 
@@ -127,7 +123,6 @@ cd code
 ```
 sudo chmod +x initiate_built_part1.sh
 sudo chmod +x initiate_built_part2.sh
-
 ```
 
 
@@ -143,7 +138,6 @@ sudo chmod +x initiate_built_part2.sh
 
 ```
 sudo sh ./initiate_built_part1.sh
-
 ```
 
 
@@ -165,20 +159,15 @@ Download the installation.sh file from this repo. using wget
 
 ```
 sudo wget file_url
-
 ```
 
 
 ```
-
 sudo chmod +x file
-
 ```
 
 
 ```
-
 sudo sh ./file.sh
-
 ```
 
