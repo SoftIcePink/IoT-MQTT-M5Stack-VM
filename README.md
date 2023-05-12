@@ -55,7 +55,7 @@ This file will automatically install the following packages :
 * Password Generator (pwgen)
 * Uncomplicated FireWall (ufw)
 * Python3 (python3)
-* OpenJDK 8 JRE (openjdk-8-jre-headless)
+* OpenJDK 7
 
 
 
@@ -166,11 +166,11 @@ sudo wget https://github.com/SoftIcePink/VM-Pers-Install/blob/main/installation.
 
 
 ```
-sudo chmod +x file installation.sh
+sudo chmod +x installation.sh
 ```
 
 
 ```
-sudo sh ./file.sh installation.sh
+sudo sh ./installation.sh
 ```
 
