@@ -28,7 +28,10 @@ Available at default directory of VirtualBox on your system.
 On windows : 
 
 
-```C:\Program Files\Oracle\VirtualBox\```
+```
+C:\Program Files\Oracle\VirtualBox\
+
+```
 
 
 
@@ -95,7 +98,11 @@ Select the iso for VBoxGuestAdditions.iso.
 By default, it is located at :
 
 
-```C:\Program Files\Oracle\VirtualBox\```
+```
+
+C:\Program Files\Oracle\VirtualBox\
+
+```
 
 
 
@@ -110,12 +117,17 @@ By default, it is located at :
 **4. Change rights on the scripts**
 
 
-```cd code```
+```
+cd code
+
+```
 
 
 
-```sudo chmod +x initiate_built_part1.sh
+```
+sudo chmod +x initiate_built_part1.sh
 sudo chmod +x initiate_built_part2.sh
+
 ```
 
 
@@ -129,7 +141,10 @@ sudo chmod +x initiate_built_part2.sh
 
 
 
-```sudo sh ./initiate_built_part1.sh```
+```
+sudo sh ./initiate_built_part1.sh
+
+```
 
 
 **Let the system reboot, then launch the second part**
@@ -148,11 +163,22 @@ Download the installation.sh file from this repo. using wget
 
 
 
-```sudo wget file_url```
+```
+sudo wget file_url
+
+```
 
 
-```sudo chmod +x file```
+```
+
+sudo chmod +x file
+
+```
 
 
-```sudo sh ./file.sh```
+```
+
+sudo sh ./file.sh
+
+```
 
