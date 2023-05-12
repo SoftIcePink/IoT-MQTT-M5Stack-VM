@@ -152,22 +152,25 @@ sudo sh ./initiate_built_part1.sh
 This part isn't available yet since this script is being used right now as part of a school project and to avoid being flagged as plagiarism automatically (even thought it's my file), I won't posted it here for now.
 
 
+**For now it only installs useful tools**
+
+
 
 Download the installation.sh file from this repo. using wget
 
 
 
 ```
-sudo wget file_url
+sudo wget https://github.com/SoftIcePink/VM-Pers-Install/blob/main/installation.sh
 ```
 
 
 ```
-sudo chmod +x file
+sudo chmod +x file installation.sh
 ```
 
 
 ```
-sudo sh ./file.sh
+sudo sh ./file.sh installation.sh
 ```
 
