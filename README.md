@@ -167,7 +167,7 @@ sudo sh ./initiate_built_part1.sh
 
 
 **(Optional for GrayLog, MongoDB, OpenSearch)**
-This part isn't available yet since this script is being used right now as part of a school project and to avoid being flagged as plagiarism automatically (even thought it's my file), I won't posted it here for now.
+This part isn't available yet since this script is being used right now as part of a school project and to avoid being flagged as plagiarism automatically (even thought it's my file), I won't post it here for now.
 
 
 **For now it only installs useful tools**
