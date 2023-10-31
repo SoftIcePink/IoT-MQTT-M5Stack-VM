@@ -48,6 +48,7 @@ sudo systemctl restart mongod.service
 sleep 20
 
 # Create Graylog database and admin user
+# Change the password obviously
 mongosh <<EOF
 use graylog
 db.createUser({
