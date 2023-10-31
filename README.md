@@ -1,4 +1,4 @@
-# Passwords present in the files should be changed (current is pwd and secret for example)
+**Passwords present in the files should be changed (current is pwd and secret for example)**
 
 
 *"Why invent the wheel when it already exists ?"*
